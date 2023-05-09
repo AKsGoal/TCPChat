@@ -1,0 +1,11 @@
+E:\C#project\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+E:\C#project\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+E:\C#project\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+E:\C#project\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.AssemblyReference.cache
+E:\C#project\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.SuggestedBindingRedirects.cache
+E:\C#project\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Form1.resources
+E:\C#project\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+E:\C#project\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.cache
+E:\C#project\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.CoreCompileInputs.cache
+E:\C#project\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+E:\C#project\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
